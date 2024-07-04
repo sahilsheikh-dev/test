@@ -1,0 +1,12 @@
+.formWrapper_container .imageContainer {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .formWrapper_container .imageContainer {
+    width: 50%;
+  }
+}
+.formWrapper_container .imageContainer img {
+  width: 100%;
+  height: 100%;
+}

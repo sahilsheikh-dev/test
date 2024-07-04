@@ -1,0 +1,19 @@
+.formWrapper_text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.6;
+  color: #293745;
+  text-align: center;
+}
+@media (min-width: 1024px) {
+  .formWrapper_text {
+    width: 91ch;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 1260px) {
+  .formWrapper_text {
+    font-size: 1.8rem;
+  }
+}
